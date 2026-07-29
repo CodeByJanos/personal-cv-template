@@ -10,6 +10,10 @@ general-purpose CV builder. All content is stored locally in TypeScript files;
 the application does not require a database, authentication service, backend or
 external CMS.
 
+## Live version
+
+[https://codebyjanos.github.io/personal-cv-template/](https://codebyjanos.github.io/personal-cv-template/)
+
 ## Features
 
 - Hungarian and English CV content
