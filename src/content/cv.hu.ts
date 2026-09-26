@@ -109,6 +109,31 @@ export const cvHu: CvData = {
         "Docker",
       ],
     },
+    {
+      company: "WEBMND Technologies SRL",
+      role: "Frontend Developer — Contractor",
+      location: "Highlighty v2",
+      period: "2022. június – 2022. december",
+
+      summary:
+        "Közreműködés a Highlighty v2 böngészőbővítmény frontend fejlesztésében. A bővítmény több keresőkifejezés egyidejű, színkódolt kiemelését, menthető kulcsszólisták használatát és a találatok közötti navigációt teszi lehetővé.",
+
+      achievements: [
+        "React és TypeScript alapú felület fejlesztése Redux Toolkit state managementtel és Chakra UI komponensekkel.",
+        "A böngészőbővítmény popup felületének, content scriptjeinek és háttérfolyamatainak kommunikációjához kapcsolódó frontendfeladatok.",
+        "Dinamikusan változó weboldaltartalmak keresésének és kiemelésének kezelése.",
+      ],
+
+      technologies: [
+        "React",
+        "TypeScript",
+        "Redux Toolkit",
+        "Chakra UI",
+        "Chrome Extension APIs",
+        "Manifest V3",
+        "mark.js",
+      ],
+    },
   ],
 
   projects: [

@@ -109,6 +109,31 @@ export const cvEn: CvData = {
         "Docker",
       ],
     },
+    {
+      company: "WEBMND Technologies SRL",
+      role: "Frontend Developer — Contractor",
+      location: "Highlighty v2",
+      period: "June 2022 – December 2022",
+
+      summary:
+        "Contributed to the frontend development of Highlighty v2, a browser extension that enables users to highlight multiple search terms simultaneously using different colors, save reusable keyword lists, and navigate between matches.",
+
+      achievements: [
+        "Developed React and TypeScript based interface functionality using Redux Toolkit for state management and Chakra UI components.",
+        "Worked on frontend functionality involving the extension popup and communication between webpage content scripts and background processes.",
+        "Handled searching and highlighting within dynamically changing webpage content.",
+      ],
+
+      technologies: [
+        "React",
+        "TypeScript",
+        "Redux Toolkit",
+        "Chakra UI",
+        "Chrome Extension APIs",
+        "Manifest V3",
+        "mark.js",
+      ],
+    },
   ],
 
   projects: [
